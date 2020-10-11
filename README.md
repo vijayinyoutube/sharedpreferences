@@ -18,7 +18,7 @@
 ## App
 
 In this app we have made use of ```Shared Preferences``` to store the user's name.
-This app allows us to store, reterive and delete the data what we have stored in the local storage.
+This app allows us to store, retrieve and delete the data what we have stored in the local storage.
 
 Check out the video tutorial   👉 : https://youtu.be/nIbo5dTdJvM
 
